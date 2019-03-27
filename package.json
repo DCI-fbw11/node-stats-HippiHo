@@ -1,0 +1,24 @@
+{
+  "name": "node-stats-HippiHo",
+  "version": "1.0.0",
+  "description": "Curious how much disk space your node_modules occupy? Node-stats to the rescue!",
+  "main": "findNodeModulesFolders.js",
+  "scripts": {
+    "test": "jest --watch",
+    "start": "node ./lib/findNodeModulesFolders.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DCI-fbw11/node-stats-HippiHo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DCI-fbw11/node-stats-HippiHo/issues"
+  },
+  "homepage": "https://github.com/DCI-fbw11/node-stats-HippiHo#readme",
+  "devDependencies": {
+    "jest": "^24.5.0"
+  }
+}
